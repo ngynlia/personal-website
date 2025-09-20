@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+
+header {
+
+    font-size: 40px;
+    text-align: center;
+    color:lightpink
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn {
+
+    display: block;
+    width: 200px;
+    text-align: center;
+    padding: 10px 10px;
+    background-color: lightpink;
+    color: black;
+    border-radius: 5px;
+    margin: 20px auto;
+
+}
+
+.btn:hover{
+    background-color: lightblue;
+    color:ivory;
+}
+
+p {
+    text-align: center;
+}
